@@ -1,4 +1,4 @@
-###Installation
+## Installation
 
 Put the folder to ```{$USER}/.config/sublime-text-3/Packages```
 Then open sublime -> click menu -> Preferences -> Color Scheme... -> Choose bl4ck-sublime-color-scheme
